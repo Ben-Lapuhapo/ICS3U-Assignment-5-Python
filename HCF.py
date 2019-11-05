@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Ben Lapuhapo
-# Created on: OCT 2019
+# Created on: Nov 2019
 # This program uses finds the HCF of two numbers
 
 
